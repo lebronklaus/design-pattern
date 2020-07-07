@@ -11,7 +11,7 @@ public class ProxyPatternDemo {
 
         //从磁盘加载
         image.display();
-        System.out.println("");
+        System.out.println("----------------");
         //不需要从磁盘加载
         image.display();
     }
