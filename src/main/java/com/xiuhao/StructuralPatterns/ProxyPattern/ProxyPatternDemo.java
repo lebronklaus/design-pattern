@@ -1,4 +1,4 @@
-package com.xiuhao.CreationalPatterns.ProxyPattern;
+package com.xiuhao.StructuralPatterns.ProxyPattern;
 
 /**
  * 代理模式
